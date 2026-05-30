@@ -115,7 +115,7 @@ analysis from a genuinely useful one.
 
 ## 👤 Author
 
-**Ramazan Anzhirov**  
+**Ramazon Anzhirov**  
 Healthcare BI Specialist | SQL · Power BI · Clinical Data Analytics  
 📍 Dubai, UAE · Open to Global Remote  
 🔗 [LinkedIn](https://www.linkedin.com/in/ramazon-a-839980403/) · [GitHub](https://github.com/rzanjirov3)
